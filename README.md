@@ -2,6 +2,8 @@
 
 Simple app to list the top 50 search results for react repositories.
 
+Working example: [https://git-api-test.tiagoeira.com/](https://git-api-test.tiagoeira.com/)
+
 ## Configurations
 
 Fo the app to work you have to create a `.env` file in the app root directory and define your GitHub API key:
